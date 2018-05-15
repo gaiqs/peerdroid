@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/PeerDroidSample/src/peerdroid/sample/dialog
+END
+NetworkInfoDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8/trunk/PeerDroidSample/src/peerdroid/sample/dialog/NetworkInfoDialog.java
+END
+PeerListDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8/trunk/PeerDroidSample/src/peerdroid/sample/dialog/PeerListDialog.java
+END
+IntroDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/trunk/PeerDroidSample/src/peerdroid/sample/dialog/IntroDialog.java
+END
+SettingsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8/trunk/PeerDroidSample/src/peerdroid/sample/dialog/SettingsDialog.java
+END
+GraphDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/trunk/PeerDroidSample/src/peerdroid/sample/dialog/GraphDialog.java
+END

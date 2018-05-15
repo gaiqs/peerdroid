@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable
+END
+FixedFlowControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/FixedFlowControl.java
+END
+FlowControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/FlowControl.java
+END
+ReliableInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/ReliableInputStream.java
+END
+Outgoing.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/Outgoing.java
+END
+ReliableOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/ReliableOutputStream.java
+END
+IncomingPipeAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/IncomingPipeAdaptor.java
+END
+OutgoingMsgrAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/OutgoingMsgrAdaptor.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/._.svn
+END
+OutgoingPipeAdaptorSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/OutgoingPipeAdaptorSync.java
+END
+Defs.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/Defs.java
+END
+Incoming.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/Incoming.java
+END
+OutgoingPipeAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/pipe/reliable/OutgoingPipeAdaptor.java
+END

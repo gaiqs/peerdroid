@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/JXMEOnAndroid/src/net/jxta/impl
+END
+._discovery
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._discovery
+END
+._peergroup
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._peergroup
+END
+._util
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._util
+END
+._document
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._document
+END
+._endpoint
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._endpoint
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/config.properties
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._.svn
+END
+ConfigProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/ConfigProperties.java
+END
+._id
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._id
+END
+._pipe
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._pipe
+END
+._cm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._cm
+END
+._config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._config.properties
+END
+._.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._.DS_Store
+END
+._protocol
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._protocol
+END
+._resolver
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._resolver
+END
+._rendezvous
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._rendezvous
+END
+._config
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._config
+END
+._loader
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/._loader
+END

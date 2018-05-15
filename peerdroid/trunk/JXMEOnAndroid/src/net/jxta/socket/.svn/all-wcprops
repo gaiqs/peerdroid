@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/socket
+END
+JxtaSocketAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/socket/JxtaSocketAddress.java
+END
+JxtaMulticastSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/socket/JxtaMulticastSocket.java
+END
+JxtaServerSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/socket/JxtaServerSocket.java
+END
+JxtaSocketInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/socket/JxtaSocketInputStream.java
+END
+JxtaSocketOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/socket/JxtaSocketOutputStream.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/socket/package.html
+END
+JxtaSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/socket/JxtaSocket.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/socket/._.svn
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup
+END
+StdPeerGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup/StdPeerGroup.java
+END
+Platform.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup/Platform.java
+END
+GenericPeerGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup/GenericPeerGroup.java
+END
+PeerGroupInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup/PeerGroupInterface.java
+END
+StartNetPeerGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup/StartNetPeerGroup.java
+END
+ShadowPeerGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup/ShadowPeerGroup.java
+END
+StdPeerGroupParamAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup/StdPeerGroupParamAdv.java
+END
+RefCountPeerGroupInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup/RefCountPeerGroupInterface.java
+END
+CompatibilityEquater.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup/CompatibilityEquater.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/peergroup/._.svn
+END

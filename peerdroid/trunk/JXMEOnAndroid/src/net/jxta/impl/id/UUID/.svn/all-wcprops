@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/package.html
+END
+UUIDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/UUIDFactory.java
+END
+Instantiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/Instantiator.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/._.svn
+END
+IDBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/IDBytes.java
+END
+PeerGroupID.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/PeerGroupID.java
+END
+IDFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/IDFormat.java
+END
+UUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/UUID.java
+END
+CodatID.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/CodatID.java
+END
+PeerID.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/PeerID.java
+END
+ModuleClassID.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/ModuleClassID.java
+END
+PipeID.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/PipeID.java
+END
+ModuleSpecID.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/id/UUID/ModuleSpecID.java
+END

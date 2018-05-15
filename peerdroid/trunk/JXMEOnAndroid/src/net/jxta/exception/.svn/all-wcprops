@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception
+END
+ServiceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception/ServiceNotFoundException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception/package.html
+END
+UnknownServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception/UnknownServiceException.java
+END
+JxtaError.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception/JxtaError.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception/._.svn
+END
+ConfiguratorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception/ConfiguratorException.java
+END
+ViolationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception/ViolationException.java
+END
+JxtaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception/JxtaException.java
+END
+PeerGroupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception/PeerGroupException.java
+END
+ProtocolNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/exception/ProtocolNotSupportedException.java
+END

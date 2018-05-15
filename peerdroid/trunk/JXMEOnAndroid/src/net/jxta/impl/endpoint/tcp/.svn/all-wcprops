@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/tcp
+END
+TcpConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/tcp/TcpConnection.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/tcp/package.html
+END
+TcpMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/tcp/TcpMessenger.java
+END
+IncomingUnicastServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/tcp/IncomingUnicastServer.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/tcp/._.svn
+END
+TcpTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/tcp/TcpTransport.java
+END

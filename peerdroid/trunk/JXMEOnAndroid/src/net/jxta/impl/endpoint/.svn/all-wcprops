@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint
+END
+IllegalTransportLoopException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/IllegalTransportLoopException.java
+END
+BlockingMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/BlockingMessenger.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/._.svn
+END
+LoopbackMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/LoopbackMessenger.java
+END
+EndpointServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/EndpointServiceImpl.java
+END
+WireFormatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/WireFormatMessage.java
+END
+QuotaIncomingMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/QuotaIncomingMessageListener.java
+END
+IPUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/IPUtils.java
+END
+WireFormatMessageBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/WireFormatMessageBinary.java
+END
+JxtaMessageMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/JxtaMessageMessageElement.java
+END
+WireFormatMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/WireFormatMessageFactory.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/resolver
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/resolver/._.svn
+END
+ResolverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/resolver/ResolverService.java
+END
+QueryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/resolver/QueryHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/resolver/package.html
+END
+GenericResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/resolver/GenericResolver.java
+END
+SrdiHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/resolver/SrdiHandler.java
+END

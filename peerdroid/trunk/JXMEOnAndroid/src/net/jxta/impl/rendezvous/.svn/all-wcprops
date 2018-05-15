@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous
+END
+PeerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/PeerView.java
+END
+RendezVousServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/RendezVousServiceImpl.java
+END
+PeerViewDestination.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/PeerViewDestination.java
+END
+PeerViewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/PeerViewEvent.java
+END
+PeerViewStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/PeerViewStrategy.java
+END
+PeerViewRandomStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/PeerViewRandomStrategy.java
+END
+PeerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/PeerConnection.java
+END
+RdvConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/RdvConnection.java
+END
+PeerViewListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/PeerViewListener.java
+END
+RendezVousPropagateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/RendezVousPropagateMessage.java
+END
+PeerViewElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/PeerViewElement.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/._.svn
+END
+PeerViewRandomWithReplaceStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/PeerViewRandomWithReplaceStrategy.java
+END
+PeerViewSequentialStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/rendezvous/PeerViewSequentialStrategy.java
+END

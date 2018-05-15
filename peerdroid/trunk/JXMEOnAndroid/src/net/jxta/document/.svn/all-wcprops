@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document
+END
+MimeMediaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/MimeMediaType.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/Element.java
+END
+StructuredDocumentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/StructuredDocumentFactory.java
+END
+TextElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/TextElement.java
+END
+XMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/XMLDocument.java
+END
+AdvertisementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/AdvertisementFactory.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/Attribute.java
+END
+StructuredDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/StructuredDocument.java
+END
+ExtendableAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/ExtendableAdvertisement.java
+END
+StructuredTextDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/StructuredTextDocument.java
+END
+Advertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/Advertisement.java
+END
+XMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/XMLElement.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/Document.java
+END
+Attributable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/Attributable.java
+END
+TextDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/TextDocument.java
+END
+StructuredDocumentUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/document/StructuredDocumentUtils.java
+END

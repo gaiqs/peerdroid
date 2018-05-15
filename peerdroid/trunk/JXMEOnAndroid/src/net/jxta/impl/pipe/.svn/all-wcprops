@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/package.html
+END
+WireHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/WireHeader.java
+END
+PipeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/PipeResolver.java
+END
+InputPipeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/InputPipeImpl.java
+END
+PipeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/PipeServiceImpl.java
+END
+PipeRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/PipeRegistrar.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/._.svn
+END
+NonBlockingOutputPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/NonBlockingOutputPipe.java
+END
+WirePipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/WirePipe.java
+END
+UnicastInputPipeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/UnicastInputPipeImpl.java
+END
+WirePipeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/WirePipeImpl.java
+END
+NonBlockingWireOutputPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/pipe/NonBlockingWireOutputPipe.java
+END

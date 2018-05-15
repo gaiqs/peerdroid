@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/JXMEOnAndroid/src/net/jxta/platform
+END
+ConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/platform/ConfigurationFactory.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/platform/._.svn
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/platform/Application.java
+END
+NetworkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/platform/NetworkManager.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/platform/Module.java
+END
+ModuleClassID.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/platform/ModuleClassID.java
+END
+NetworkConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/40/trunk/JXMEOnAndroid/src/net/jxta/platform/NetworkConfigurator.java
+END
+JxtaLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/platform/JxtaLoader.java
+END
+ModuleSpecID.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/platform/ModuleSpecID.java
+END

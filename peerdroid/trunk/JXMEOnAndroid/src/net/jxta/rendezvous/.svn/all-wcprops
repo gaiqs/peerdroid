@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/rendezvous
+END
+RendezvousListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/rendezvous/RendezvousListener.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/rendezvous/package.html
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/rendezvous/._.svn
+END
+RendezVousService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/rendezvous/RendezVousService.java
+END
+RendezvousEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/rendezvous/RendezvousEvent.java
+END
+RendezVousStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/rendezvous/RendezVousStatus.java
+END

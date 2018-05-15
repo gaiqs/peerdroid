@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document
+END
+TextDocumentCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document/TextDocumentCommon.java
+END
+LiteXMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document/LiteXMLDocument.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document/._.svn
+END
+PlainTextElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document/PlainTextElement.java
+END
+XMLElementCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document/XMLElementCommon.java
+END
+BinaryDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document/BinaryDocument.java
+END
+PlainTextDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document/PlainTextDocument.java
+END
+TextElementCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document/TextElementCommon.java
+END
+LiteXMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document/LiteXMLElement.java
+END
+XMLDocumentCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/document/XMLDocumentCommon.java
+END

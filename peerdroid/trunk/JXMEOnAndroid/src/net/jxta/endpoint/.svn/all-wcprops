@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint
+END
+MessengerEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/MessengerEventListener.java
+END
+ListenerAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/ListenerAdaptor.java
+END
+MessageFilterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/MessageFilterListener.java
+END
+EndpointService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/EndpointService.java
+END
+MessageTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/MessageTransport.java
+END
+TextDocumentMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/TextDocumentMessageElement.java
+END
+OutgoingMessageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/OutgoingMessageEvent.java
+END
+TextMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/TextMessageElement.java
+END
+OutgoingMessageEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/OutgoingMessageEventListener.java
+END
+MessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/MessageReceiver.java
+END
+AbstractMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/AbstractMessenger.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/package.html
+END
+AsyncChannelMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/AsyncChannelMessenger.java
+END
+ChannelMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/ChannelMessenger.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/._.svn
+END
+ByteArrayMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/ByteArrayMessageElement.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/Message.java
+END
+StringMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/StringMessageElement.java
+END
+MessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/MessageSender.java
+END
+EndpointAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/EndpointAddress.java
+END
+EndpointListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/EndpointListener.java
+END
+Messenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/Messenger.java
+END
+MessengerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/MessengerState.java
+END
+ThreadedMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/ThreadedMessenger.java
+END
+InputStreamMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/InputStreamMessageElement.java
+END
+MessengerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/MessengerEvent.java
+END
+EndpointFilterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/EndpointFilterListener.java
+END
+MessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/endpoint/MessageElement.java
+END

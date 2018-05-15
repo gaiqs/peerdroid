@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/trunk/JXTA-PeerDroidSample/src/peerdroid/sample/handler
+END
+RandomMessagesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10/trunk/JXTA-PeerDroidSample/src/peerdroid/sample/handler/RandomMessagesHandler.java
+END
+SocketServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10/trunk/JXTA-PeerDroidSample/src/peerdroid/sample/handler/SocketServerHandler.java
+END
+ConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10/trunk/JXTA-PeerDroidSample/src/peerdroid/sample/handler/ConnectionHandler.java
+END
+PeerDiscoveryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10/trunk/JXTA-PeerDroidSample/src/peerdroid/sample/handler/PeerDiscoveryHandler.java
+END

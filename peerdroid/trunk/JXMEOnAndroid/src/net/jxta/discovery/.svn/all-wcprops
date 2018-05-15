@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/discovery
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/discovery/._.svn
+END
+DiscoveryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/discovery/DiscoveryService.java
+END
+DiscoveryEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/discovery/DiscoveryEvent.java
+END
+DiscoveryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/discovery/DiscoveryListener.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/discovery/package.html
+END

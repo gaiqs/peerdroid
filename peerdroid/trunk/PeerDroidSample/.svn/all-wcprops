@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/50/trunk/PeerDroidSample
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/PeerDroidSample/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/43/trunk/PeerDroidSample/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8/trunk/PeerDroidSample/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/PeerDroidSample/AndroidManifest.xml
+END

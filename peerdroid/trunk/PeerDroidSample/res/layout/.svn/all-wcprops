@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/46/trunk/PeerDroidSample/res/layout
+END
+settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/trunk/PeerDroidSample/res/layout/settings.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/PeerDroidSample/res/layout/main.xml
+END
+network_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/PeerDroidSample/res/layout/network_info.xml
+END
+peer_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8/trunk/PeerDroidSample/res/layout/peer_list.xml
+END
+p2pmain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/PeerDroidSample/res/layout/p2pmain.xml
+END
+intro.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/PeerDroidSample/res/layout/intro.xml
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util
+END
+CacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/CacheEntry.java
+END
+TimerThreadNamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/TimerThreadNamer.java
+END
+CacheEntryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/CacheEntryListener.java
+END
+._.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/._.DS_Store
+END
+ResourceDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/ResourceDispatcher.java
+END
+UnbiasedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/UnbiasedQueue.java
+END
+FastHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/FastHashMap.java
+END
+ProducerBiasedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/ProducerBiasedQueue.java
+END
+Dlink.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/Dlink.java
+END
+Cache.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/Cache.java
+END
+JxtaHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/JxtaHash.java
+END
+Dlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/Dlist.java
+END
+TimeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/TimeUtils.java
+END
+BASE64InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/BASE64InputStream.java
+END
+BASE64OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/BASE64OutputStream.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/._.svn
+END
+SequenceIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/SequenceIterator.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/util/Base64.java
+END

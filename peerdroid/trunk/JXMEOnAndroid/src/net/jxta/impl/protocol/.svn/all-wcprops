@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol
+END
+ModuleImplAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/ModuleImplAdv.java
+END
+PeerGroupAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/PeerGroupAdv.java
+END
+ModuleClassAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/ModuleClassAdv.java
+END
+AccessPointAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/AccessPointAdv.java
+END
+HTTPAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/HTTPAdv.java
+END
+PlatformConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/PlatformConfig.java
+END
+ResolverSrdiMsgImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/ResolverSrdiMsgImpl.java
+END
+RdvConfigAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/RdvConfigAdv.java
+END
+RouteResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/RouteResponse.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/package.html
+END
+ResolverResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/ResolverResponse.java
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/._.svn
+END
+TCPAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/TCPAdv.java
+END
+RouteQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/RouteQuery.java
+END
+DiscoveryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/DiscoveryResponse.java
+END
+PeerAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/PeerAdv.java
+END
+RdvAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/RdvAdv.java
+END
+PipeResolverMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/PipeResolverMsg.java
+END
+LimitedRangeRdvMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/LimitedRangeRdvMsg.java
+END
+ResolverQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/ResolverQuery.java
+END
+PipeAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/PipeAdv.java
+END
+SrdiMessageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/SrdiMessageImpl.java
+END
+DiscoveryConfigAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/DiscoveryConfigAdv.java
+END
+RouteAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/RouteAdv.java
+END
+ModuleSpecAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/ModuleSpecAdv.java
+END
+DiscoveryQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/DiscoveryQuery.java
+END
+RelayConfigAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/protocol/RelayConfigAdv.java
+END

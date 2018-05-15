@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/relay
+END
+._.svn
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/relay/._.svn
+END
+RelayTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/relay/RelayTransport.java
+END
+RelayClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/JXMEOnAndroid/src/net/jxta/impl/endpoint/relay/RelayClient.java
+END
